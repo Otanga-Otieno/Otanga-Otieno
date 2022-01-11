@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Otanga-Otieno
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me - info@otanga.co.ke
 

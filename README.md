@@ -1,7 +1,6 @@
 <div style="text-align:center;" >
 
-<h1 align="center">Hi 👋, I'm Alvin Otanga</h1>
-<h3 align="center">A self-taught fullstack developer.</h3>
+<p align="center"><img src="https://otanga.co.ke/Dependencies/Images/header.jpg" ></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=otanga-otieno&label=Profile%20views&color=0e75b6&style=flat" alt="otanga-otieno" /> </p>
 

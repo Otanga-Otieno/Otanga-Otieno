@@ -8,8 +8,6 @@
 
 <div align="center" style="text-align: center; width: 100%;">
   <span> - 👀 I’m interested in web development </span> <br><br>
-  <span> - 🔭 I’m currently working on <a href="https://github.com/Otanga-Otieno/chat-app-php">Chat-App-PHP</a></span> <br><br>
-  <span> - 🌱 I’m currently learning <b>Node.js</b> </span> <br><br>
   <span> - 👯 I’m looking to collaborate on <b>open source projects.</b> </span> <br><br>
   <span> - 👨‍💻 All of my projects are available at <a href="https://otanga.co.ke">otanga.co.ke</a> </span> <br><br>
   <span> - 📫 How to reach me **<a href="mailto:info@otanga.co.ke">info@otanga.co.ke</a>** </span> <br>

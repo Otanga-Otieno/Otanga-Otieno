@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://otanga.co.ke/Dependencies/Images/header.jpg" ></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=otanga-otieno&label=Profile%20views&color=0e75b6&style=flat" alt="otanga-otieno" /> </p>
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=otanga-otieno&label=Profile%20views&color=0e75b6&style=flat" alt="otanga-otieno" /> </p>-->
 
 <p align="center"> <a href="https://twitter.com/alvinotanga" target="blank"><img src="https://img.shields.io/twitter/follow/alvinotanga?logo=twitter&style=for-the-badge" alt="alvinotanga" /></a> </p>
 

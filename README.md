@@ -22,8 +22,6 @@
 <p align="center"><img align="center" style="" src="https://github-readme-stats.vercel.app/api/top-langs?username=otanga-otieno&show_icons=true&locale=en&layout=compact" alt="otanga-otieno" /></p>
 
 <p align="center">&nbsp;<img align="center" style="" src="https://github-readme-stats.vercel.app/api?username=otanga-otieno&show_icons=true&locale=en" alt="otanga-otieno" /></p>
-
-<p align="center"><img align="center" style="" src="https://github-readme-streak-stats.herokuapp.com/?user=otanga-otieno&" alt="otanga-otieno" /></p>
   
 </div>
 

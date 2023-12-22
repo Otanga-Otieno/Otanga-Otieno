@@ -7,9 +7,6 @@
 <p align="center"> <a href="https://twitter.com/alvinotanga" target="blank"><img src="https://img.shields.io/twitter/follow/alvinotanga?logo=twitter&style=for-the-badge" alt="alvinotanga" /></a> </p>
 
 <div align="center" style="text-align: center; width: 100%;">
-  <span> - 👀 I’m interested in web development </span> <br><br>
-  <span> - 👯 I’m looking to collaborate on <b>open source projects.</b> </span> <br><br>
-  <span> - 👨‍💻 All of my projects are available at <a href="https://otanga.co.ke">otanga.co.ke</a> </span> <br><br>
   <span> - 📫 How to reach me **<a href="mailto:info@otanga.co.ke">info@otanga.co.ke</a>** </span> <br>
 </div>
 
